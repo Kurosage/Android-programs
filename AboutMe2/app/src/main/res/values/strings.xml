@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="yellow_star">Yellow_star</string>
+    <string name="kamila_gilfanova">Kamila Gilfanova</string>
+    <string name="bio">"Hi, my name is Kamila.
+        \n\n I love Japanese.
+        \n\nI studied at the chemical lyceum boarding school.
+        \n\nNow I am studying at knitu-kai.
+        \n\nI studied Japanese for two years and passed the N4 exam.
+        \n\nI love Japanese, it sounds beautiful.
+        \n\nI want to go to Japan to apply my knowledge
+        \n\nand look at the culture of Japan."</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
