@@ -11,4 +11,4 @@
 
 # 2.2 ColorMyViews
 
-<img src="ColorMyViews/coloremyview.png" alt="colormyview" width="250"/>
+<img src="ColorMyViews/colormyviews.png" alt="colormyview" width="250"/>
