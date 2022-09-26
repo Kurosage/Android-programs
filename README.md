@@ -8,3 +8,7 @@
 # 2.1 AboutMe
 
 <img src="AboutMe2/aboutme.png" alt="aboutme" width="250"/>
+
+# 2.2 ColorMyViews
+
+<img src="ColorMyViews/coloremyview.png" alt="colormyview" width="250"/>
